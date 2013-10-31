@@ -1,0 +1,7 @@
+Ruqiyyah, Self-healing. Heals 10% of health per level, 10, r, Skill.ruqiyyah
+Identify, Identifies the properties of weapons, 5, i, Skill.identify_item
+Stab, A focused strike (STR * 2) + level, 5, s, Skill.stab
+Impale, Super stab; uses 50% of SP., 50%, x, Skill.impale
+Whirlwind, Spin and strike everything around you (STR * 3), 25, w, Skill.whirlwind
+Vortex, Create a vortex back to the surface, 100%, v, Skill.create_vortex
+Haste, Adds 1 agiliity for 1 SP. Deteriorates per move, 100%, h, Skill.hasten

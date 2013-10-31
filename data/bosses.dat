@@ -1,0 +1,5 @@
+Trollus, 400, 100, 30, 20, T, Weapon.new("Trollish Club", "club", 30, "þ"), 100
+Slime-X, 1000, 150, 150, 50, S, Item.new("Slimy slime", "'"), 40
+Decalotupus, 20000, 800, 600, 150, D, Armour.new("Decalotupus Skin", "armour", 100, "¤"), 100
+Decalotupus Tentacle, 2000, 600, 200, 250, O, Item.new("Severed Tentacle", "?"), 20
+Aarij the Mage, 35000, 3500, 1500, 2000, A, Item.new("Aarij's Journal", "¥"), 100
